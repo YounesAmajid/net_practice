@@ -30,4 +30,4 @@ DHCP (Dynamic Host Configuration Protocol):
 DHCP is used to automatically assign IP addresses to devices on a network, simplifying the process of network configuration.
 DNS (Domain Name System):
 
-DNS translates human-readable domain names (e.g., www.example.com) into IP addresses.
+DNS translates human-readable domain names 
